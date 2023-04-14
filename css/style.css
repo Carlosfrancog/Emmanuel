@@ -5,7 +5,7 @@
   }
   
   body {
-    background-image: url('../img/baloes.jpg');
+    background-image: url('../img/baloes2.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -26,7 +26,7 @@
     text-transform: uppercase;
     font-weight: bold;
     text-decoration: underline;
-    margin-bottom: 30px;
+    margin-bottom: 40px;
   }
   
   main {
@@ -43,7 +43,7 @@
   }
   
   iframe {
-    margin-top: 30px;
+    margin-top: 50px;
     position: absolute;
     top: 0;
     left: 0;
